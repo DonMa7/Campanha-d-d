@@ -1,6 +1,6 @@
 # Monarquia élfica — sistema de sucessão (provisório)
 
-> **Estado:** tudo neste documento permanece provisório até aprovação explícita. Este arquivo registra as decisões atuais e distingue regras escolhidas de detalhes ainda em aberto. Para o registro ampliado das Etapas 1–8 sobre instituições, casas e conflitos políticos, consulte [Política élfica — Etapas 1–8 (provisório)](politica-elfica-etapas-1-a-8.md).
+> **Estado:** tudo neste documento permanece provisório até aprovação explícita. Este arquivo registra as decisões atuais e distingue regras escolhidas de detalhes ainda em aberto. Para o registro ampliado das Etapas 1–8 sobre instituições, casas e conflitos políticos, consulte [Política élfica — Etapas 1–8 (provisório)](politica-elfica-etapas-1-a-8.md). Para as Etapas 9–22 sobre instituições, economia, magia, religião, história, defesa e cultura, consulte [Reino élfico — instituições, história e cultura (Etapas 9–22)](reino-elfico-etapas-9-a-22.md).
 
 ## Estrutura da nobreza
 - Existem 13 casas no total: a família/dinastia real e 12 casas nobres.
