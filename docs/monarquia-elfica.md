@@ -1,13 +1,13 @@
 # Monarquia élfica — sistema de sucessão (provisório)
 
-> **Estado:** tudo neste documento permanece provisório até aprovação explícita. Este arquivo registra as decisões atuais e distingue regras escolhidas de detalhes ainda em aberto.
+> **Estado:** tudo neste documento permanece provisório até aprovação explícita. Este arquivo registra as decisões atuais e distingue regras escolhidas de detalhes ainda em aberto. Para o registro ampliado das Etapas 1–8 sobre instituições, casas e conflitos políticos, consulte [Política élfica — Etapas 1–8 (provisório)](politica-elfica-etapas-1-a-8.md).
 
 ## Estrutura da nobreza
 - Existem 13 casas no total: a família/dinastia real e 12 casas nobres.
 - As 12 casas nobres formam o conselho que participa da escolha do monarca.
 - Das 12 casas não reais, 10 são de elfos superiores e 2 de elfos da floresta. Não existe originalmente uma casa nobre drow.
 - O sobrenome da família real e o nome da dinastia são iguais.
-- O nome da dinastia e os nomes das casas ainda não foram definidos.
+- Há nomes de trabalho provisórios para a dinastia Thaelvar e para as 12 casas; eles ainda não são definitivos e estão registrados em [Política élfica — Etapas 1–8 (provisório)](politica-elfica-etapas-1-a-8.md).
 
 ## Fonte do poder real
 - A família real não precisa ser a mais rica nem possuir o maior território; sua principal vantagem militar vem de um poder único ligado a um vínculo hereditário com espíritos ancestrais e/ou seres de outro plano.
@@ -44,8 +44,7 @@
 5. A votação popular permanece uma alternativa extraordinária discutida, não a regra padrão.
 
 ## Pontos ainda em aberto
-- Nome da família real/dinastia.
-- Nomes e identidades das 12 casas nobres.
+- Confirmação final ou alteração do nome da família real/dinastia e dos nomes e identidades das 12 casas; as opções atuais são apenas provisórias e constam no documento complementar.
 - Critérios concretos usados pelos anciões para elegibilidade e avaliação.
 - Diferença entre reprovação parcial, perda de pontos e eliminação.
 - Como o reconhecimento espiritual é medido, anunciado e contestado.
