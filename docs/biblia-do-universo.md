@@ -96,3 +96,7 @@
 - Não revelar cedo demais mistérios destinados à campanha.
 - Manter problemas políticos e históricos independentes; não atribuir tudo a Varis.
 - Preferências visuais para arte dos personagens: pintura digital realista, linhas de detalhe suaves e iluminação/cores contextualizadas.
+
+## Reino élfico — continuação do registro provisório
+
+As Etapas 9–22 sobre instituições, economia, magia, religião, relações externas, geografia, Yggdrasil, história, calendário, forças armadas, sociedade e cultura estão reunidas em [Reino élfico — instituições, história e cultura (Etapas 9–22)](reino-elfico-etapas-9-a-22.md). Todas as respostas e deduções desse documento continuam provisórias. As deduções são análise de coerência, não fatos aprovados; lacunas não devem ser preenchidas automaticamente.
