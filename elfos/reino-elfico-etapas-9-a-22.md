@@ -3,7 +3,7 @@
 > **Nota de continuidade (24/10/2026):** a consolidação em [Estrutura aprovada do reino élfico](estrutura-do-reino-elfico.md) registra as propostas posteriores que o criador aprovou. Quando houver divergência entre uma pergunta antiga marcada “em aberto” neste registro de etapas e a consolidação aprovada, vale a consolidação mais recente. Este arquivo foi preservado como histórico do processo de criação e não deve, isoladamente, ser interpretado como a versão mais atual de todas as decisões.
 
 
-> **Estado:** documento de trabalho. Todas as respostas do criador aqui registradas são **provisórias**, não cânone definitivo. As seções de “deduções/implicações” são análises de coerência, não fatos aprovados. Não preencher lacunas automaticamente. Este documento complementa [Política élfica — Etapas 1–8](politica-elfica-etapas-1-a-8.md), [Monarquia élfica](monarquia-elfica.md) e a [Bíblia do universo](biblia-do-universo.md).
+> **Estado:** documento de trabalho. Todas as respostas do criador aqui registradas são **provisórias**, não cânone definitivo. As seções de “deduções/implicações” são análises de coerência, não fatos aprovados. Não preencher lacunas automaticamente. Este documento complementa [Política élfica — Etapas 1–8](politica-elfica-etapas-1-a-8.md), [Monarquia élfica](monarquia-elfica.md) e a [Bíblia do universo](../docs/biblia-do-universo.md).
 
 ## Como ler este documento
 
