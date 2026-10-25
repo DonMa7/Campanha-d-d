@@ -99,12 +99,16 @@
 
 ## Reino élfico — continuação do registro provisório
 
-As Etapas 9–22 sobre instituições, economia, magia, religião, relações externas, geografia, Yggdrasil, história, calendário, forças armadas, sociedade e cultura estão reunidas em [Reino élfico — instituições, história e cultura (Etapas 9–22)](reino-elfico-etapas-9-a-22.md). Todas as respostas e deduções desse documento continuam provisórias. As deduções são análise de coerência, não fatos aprovados; lacunas não devem ser preenchidas automaticamente.
+As Etapas 9–22 sobre instituições, economia, magia, religião, relações externas, geografia, Yggdrasil, história, calendário, forças armadas, sociedade e cultura estão reunidas em [Reino élfico — instituições, história e cultura (Etapas 9–22)](../elfos/reino-elfico-etapas-9-a-22.md). Todas as respostas e deduções desse documento continuam provisórias. As deduções são análise de coerência, não fatos aprovados; lacunas não devem ser preenchidas automaticamente.
 
 ## Reino élfico — brasões das doze casas
 
-A proposta visual provisória dos doze brasões e a descrição de seus motivos estão reunidas em [Brasões das doze casas élficas](brasoes-das-doze-casas-elficas.md). A prancha vetorial correspondente fica em [assets/brasoes-12-casas-elficas.svg](../assets/brasoes-12-casas-elficas.svg). Símbolos, cores e interpretações permanecem provisórios, sujeitos a revisão individual; não devem ser tratados como cânone definitivo sem aprovação expressa do criador.
+A proposta visual provisória dos doze brasões e a descrição de seus motivos estão reunidas em [Brasões das doze casas élficas](../elfos/brasoes-das-doze-casas-elficas.md). A prancha vetorial correspondente fica em [assets/brasoes-12-casas-elficas.svg](../elfos/assets/brasoes-12-casas-elficas.svg). Símbolos, cores e interpretações permanecem provisórios, sujeitos a revisão individual; não devem ser tratados como cânone definitivo sem aprovação expressa do criador.
 
 ## Geografia canônica do reino élfico
 
-O mapa aprovado e as decisões territoriais definidas depois dele estão documentados em [Mapa e geografia canônica do reino élfico](mapa-e-geografia-canonica-do-reino-elfico.md). A distribuição do Lago Espelho, a povoação Nailo de Rosanil e as limitações ainda em aberto estão descritas nesse documento. A imagem original do mapa foi fornecida pelo criador, mas ainda precisa ser adicionada como arquivo binário ao repositório para aparecer diretamente no GitHub.
+O mapa aprovado e as decisões territoriais definidas depois dele estão documentados em [Mapa e geografia canônica do reino élfico](../elfos/mapa-e-geografia-canonica-do-reino-elfico.md). A distribuição do Lago Espelho, a povoação Nailo de Rosanil e as limitações ainda em aberto estão descritas nesse documento. A imagem original do mapa foi fornecida pelo criador, mas ainda precisa ser adicionada como arquivo binário ao repositório para aparecer diretamente no GitHub.
+
+## Pasta de referência dos elfos
+
+Os documentos e recursos específicos do reino élfico foram reunidos na pasta [elfos/](../elfos/README.md). O documento central [Estrutura aprovada do reino élfico](../elfos/estrutura-do-reino-elfico.md) reúne as propostas estruturais aprovadas; os registros de etapas permanecem como histórico e referência. A imagem PNG original do mapa foi aprovada como referência canônica, mas ainda não pôde ser importada para o repositório pela integração disponível.
