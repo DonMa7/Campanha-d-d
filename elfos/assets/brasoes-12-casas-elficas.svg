@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1050" viewBox="0 0 1200 1050">
+<defs><pattern id="paper" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M0 8H40M8 0V40" stroke="#ad9a79" stroke-opacity=".08" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="1050" fill="#f4efe3"/><rect width="1200" height="1050" fill="url(#paper)"/>
+<rect x="18" y="18" width="1164" height="1014" rx="18" fill="none" stroke="#a99a7d" stroke-width="1.5"/>
+<text x="600" y="65" text-anchor="middle" font-family="Georgia,serif" font-size="29" letter-spacing="2" fill="#33342d">DOZE CASAS DO REINO ÉLFICO</text>
+<text x="600" y="94" text-anchor="middle" font-family="Georgia,serif" font-size="11" letter-spacing="5" fill="#7d735f">PROPOSTA VISUAL PROVISÓRIA</text><g>
+ <path d="M150 158 Q86 168 88 214 L97 280 Q150 329 203 280 L212 214 Q214 168 150 158Z" fill="#123e36" stroke="#c5b178" stroke-width="3"/>
+ <path d="M150 170 Q99 179 99 216 L107 273 Q150 313 193 273 L201 216 Q201 179 150 170Z" fill="none" stroke="#c5b178" stroke-width="1.2" opacity=".8"/>
+ <path d="M114 233 Q150 198 186 233 Q150 268 114 233Z" stroke="#c5b178" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="150" cy="233" r="10" stroke="#c5b178" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="150" cy="233" r="3" fill="#c5b178"/><path d="M150 182v-18 M150 284v18 M96 233h-18 M204 233h18" stroke="#c5b178" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M45 342H255" stroke="#b1a287" stroke-width="1"/>
+ <text x="150" y="366" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA ORYNTHAR</text>
+ </g><g>
+ <path d="M450 158 Q386 168 388 214 L397 280 Q450 329 503 280 L512 214 Q514 168 450 158Z" fill="#183d2b" stroke="#c6d3b4" stroke-width="3"/>
+ <path d="M450 170 Q399 179 399 216 L407 273 Q450 313 493 273 L501 216 Q501 179 450 170Z" fill="none" stroke="#c6d3b4" stroke-width="1.2" opacity=".8"/>
+ <path d="M450 205l-10 18 4 25 6 10 6-10 4-25Z" stroke="#c6d3b4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M444 212l-20-22 -9-18 M424 190l-18-2 M418 182l-4-16 M456 212l20-22 9-18 M476 190l18-2 M482 182l4-16" stroke="#c6d3b4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="446" cy="234" r="2" fill="#c6d3b4"/><circle cx="454" cy="234" r="2" fill="#c6d3b4"/>
+ <path d="M345 342H555" stroke="#b1a287" stroke-width="1"/>
+ <text x="450" y="366" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA FAELTH</text>
+ </g><g>
+ <path d="M750 158 Q686 168 688 214 L697 280 Q750 329 803 280 L812 214 Q814 168 750 158Z" fill="#1f3657" stroke="#c4d6e8" stroke-width="3"/>
+ <path d="M750 170 Q699 179 699 216 L707 273 Q750 313 793 273 L801 216 Q801 179 750 170Z" fill="none" stroke="#c4d6e8" stroke-width="1.2" opacity=".8"/>
+ <path d="M707 263l19-29 15 14 18-36 15 51Z" stroke="#c4d6e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M738 263v-50h24v50 M733 183h34 M743 183v-12h14v12 M750 154v-10 M744 149h12" stroke="#c4d6e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M747 198h6v12h-6Z" fill="#c4d6e8"/>
+ <path d="M645 342H855" stroke="#b1a287" stroke-width="1"/>
+ <text x="750" y="366" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA THALVOR</text>
+ </g><g>
+ <path d="M1050 158 Q986 168 988 214 L997 280 Q1050 329 1103 280 L1112 214 Q1114 168 1050 158Z" fill="#f4ead2" stroke="#c49b4c" stroke-width="3"/>
+ <path d="M1050 170 Q999 179 999 216 L1007 273 Q1050 313 1093 273 L1101 216 Q1101 179 1050 170Z" fill="none" stroke="#c49b4c" stroke-width="1.2" opacity=".8"/>
+ <circle cx="1050" cy="220" r="17" stroke="#c49b4c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M1050 181v-13 M1050 240v12 M1011 220h-13 M1089 220h13 M1022 192l-9-9 M1078 192l9-9" stroke="#c49b4c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M1016 267v-10h10v10 M1038 267v-27h12v27 M1062 267v-17h10v17 M1008 267h84" stroke="#c49b4c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M945 342H1155" stroke="#b1a287" stroke-width="1"/>
+ <text x="1050" y="366" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA ELARION</text>
+ </g><g>
+ <path d="M150 434 Q86 444 88 490 L97 556 Q150 605 203 556 L212 490 Q214 444 150 434Z" fill="#164b48" stroke="#b7d8cd" stroke-width="3"/>
+ <path d="M150 446 Q99 455 99 492 L107 549 Q150 589 193 549 L201 492 Q201 455 150 446Z" fill="none" stroke="#b7d8cd" stroke-width="1.2" opacity=".8"/>
+ <path d="M116 548Q102 511 141 488Q164 476 183 501Q201 524 173 547Q151 562 133 529Q119 504 147 492Q169 482 179 500" stroke="#b7d8cd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M127 511q-17-14-24 0q14 9 24 0 M168 522q22-14 27 1q-12 10-27-1 M148 483q-3-17 11-21q4 13-11 21" stroke="#b7d8cd" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M45 618H255" stroke="#b1a287" stroke-width="1"/>
+ <text x="150" y="642" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA SYLVARION</text>
+ </g><g>
+ <path d="M450 434 Q386 444 388 490 L397 556 Q450 605 503 556 L512 490 Q514 444 450 434Z" fill="#6d2025" stroke="#d9bc83" stroke-width="3"/>
+ <path d="M450 446 Q399 455 399 492 L407 549 Q450 589 493 549 L501 492 Q501 455 450 446Z" fill="none" stroke="#d9bc83" stroke-width="1.2" opacity=".8"/>
+ <path d="M416 465l42 42 -7 7 -42-42Z M484 465l-42 42 7 7 42-42Z" stroke="#d9bc83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M412 482l-16 16 M488 482l16 16" stroke="#d9bc83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M450 495l21 12v27l-21 14 -21-14V-2Z" stroke="#d9bc83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M450 505l4 9 10 1-7 7 2 10-9-5-9 5 2-10-7-7 10-1Z" fill="#d9bc83"/>
+ <path d="M345 618H555" stroke="#b1a287" stroke-width="1"/>
+ <text x="450" y="642" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA DRAVARYN</text>
+ </g><g>
+ <path d="M750 434 Q686 444 688 490 L697 556 Q750 605 803 556 L812 490 Q814 444 750 434Z" fill="#142b50" stroke="#8db6df" stroke-width="3"/>
+ <path d="M750 446 Q699 455 699 492 L707 549 Q750 589 793 549 L801 492 Q801 455 750 446Z" fill="none" stroke="#8db6df" stroke-width="1.2" opacity=".8"/>
+ <path d="M750 461l10 33 34 0-27 20 10 32-27-19-27 19 10-32-27-20h34Z" stroke="#8db6df" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><circle cx="750" cy="509" r="56" stroke="#8db6df" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M750 442v134 M683 509h134 M703 462l94 94 M797 462l-94 94" stroke="#8db6df" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".55"/>
+ <path d="M645 618H855" stroke="#b1a287" stroke-width="1"/>
+ <text x="750" y="642" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA MYRATHIEL</text>
+ </g><g>
+ <path d="M1050 434 Q986 444 988 490 L997 556 Q1050 605 1103 556 L1112 490 Q1114 444 1050 434Z" fill="#c9dff0" stroke="#b58f4a" stroke-width="3"/>
+ <path d="M1050 446 Q999 455 999 492 L1007 549 Q1050 589 1093 549 L1101 492 Q1101 455 1050 446Z" fill="none" stroke="#b58f4a" stroke-width="1.2" opacity=".8"/>
+ <path d="M1018 470Q1072 451 1086 545L1025 545Q1041 518 1018 470Z" stroke="#b58f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M1026 479L1037 539 M1040 474L1046 539 M1054 477L1056 539 M1067 489L1068 539" stroke="#b58f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M1007 548q-12-16-23-1q12 10 23 1 M1089 548q12-16 23-1q-12 10-23 1" stroke="#b58f4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M945 618H1155" stroke="#b1a287" stroke-width="1"/>
+ <text x="1050" y="642" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA LETHARIEN</text>
+ </g><g>
+ <path d="M150 710 Q86 720 88 766 L97 832 Q150 881 203 832 L212 766 Q214 720 150 710Z" fill="#244d30" stroke="#d0b36a" stroke-width="3"/>
+ <path d="M150 722 Q99 731 99 768 L107 825 Q150 865 193 825 L201 768 Q201 731 150 722Z" fill="none" stroke="#d0b36a" stroke-width="1.2" opacity=".8"/>
+ <path d="M150 829v-53 M150 799l-25-21 M150 786l26-22 M150 775l-17-19 M150 762l18-18" stroke="#d0b36a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M150 736q-19 7-17 23q17 0 17-23 M150 755q22 2 23 19q-20 2-23-19 M125 778q-22-1-22 17q20 4 22-17 M175 780q22-2 22 17q-20 4-22-17" stroke="#d0b36a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M114 830q15-20 36-5q21-15 36 5 M127 836h46" stroke="#d0b36a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M45 894H255" stroke="#b1a287" stroke-width="1"/>
+ <text x="150" y="918" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA CAERTHAS</text>
+ </g><g>
+ <path d="M450 710 Q386 720 388 766 L397 832 Q450 881 503 832 L512 766 Q514 720 450 710Z" fill="#eee9d8" stroke="#72935d" stroke-width="3"/>
+ <path d="M450 722 Q399 731 399 768 L407 825 Q450 865 493 825 L501 768 Q501 731 450 722Z" fill="none" stroke="#72935d" stroke-width="1.2" opacity=".8"/>
+ <path d="M450 829v-45 M450 797q-35 0-39-29q31-3 39 29 M450 784q4-36 39-39q-1 32-39 39 M424 829h52" stroke="#72935d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M450 763v-25" stroke="#72935d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M345 894H555" stroke="#b1a287" stroke-width="1"/>
+ <text x="450" y="918" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA VAERINDEL</text>
+ </g><g>
+ <path d="M750 710 Q686 720 688 766 L697 832 Q750 881 803 832 L812 766 Q814 720 750 710Z" fill="#702635" stroke="#d7b96f" stroke-width="3"/>
+ <path d="M750 722 Q699 731 699 768 L707 825 Q750 865 793 825 L801 768 Q801 731 750 722Z" fill="none" stroke="#d7b96f" stroke-width="1.2" opacity=".8"/>
+ <path d="M750 783q-23-15-44-4v42q22-11 44 4q22-15 44-4V-6q-21-11-44 4Z" stroke="#d7b96f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M750 783v42 M718 791l17 2 M782 791l-17 2 M750 751l-16-10v-8h32v8Z" stroke="#d7b96f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M728 742h44 M750 733v-7" stroke="#d7b96f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M645 894H855" stroke="#b1a287" stroke-width="1"/>
+ <text x="750" y="918" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA VELTHARION</text>
+ </g><g>
+ <path d="M1050 710 Q986 720 988 766 L997 832 Q1050 881 1103 832 L1112 766 Q1114 720 1050 710Z" fill="#24252b" stroke="#c8c9ce" stroke-width="3"/>
+ <path d="M1050 722 Q999 731 999 768 L1007 825 Q1050 865 1093 825 L1101 768 Q1101 731 1050 722Z" fill="none" stroke="#c8c9ce" stroke-width="1.2" opacity=".8"/>
+ <path d="M1050 751q-25-24-25 1q0 16 25 23q25-7 25-23q0-25-25-1Z" stroke="#c8c9ce" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M1050 775q-20-7-16-22q15-3 16 22 M1050 775q20-7 16-22q-15-3-16 22 M1050 775v52 M1050 800q-27-15-31 8q19 4 31-8 M1050 810q27-15 31 8q-19 4-31-8 M1007 749l12 12-12 12 M1093 749l-12 12 12 12" stroke="#c8c9ce" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M945 894H1155" stroke="#b1a287" stroke-width="1"/>
+ <text x="1050" y="918" text-anchor="middle" font-family="Georgia,serif" font-size="16" letter-spacing="1.2" fill="#36352d">CASA NAILO</text>
+ </g><text x="600" y="1006" text-anchor="middle" font-family="Georgia,serif" font-size="11" letter-spacing="3" fill="#7d735f">SÍMBOLOS, CORES E INTERPRETAÇÕES SUJEITOS A REVISÃO</text></svg>
