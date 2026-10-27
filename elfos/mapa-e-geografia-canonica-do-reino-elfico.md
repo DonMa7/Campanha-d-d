@@ -5,6 +5,8 @@
 
 > **Estado:** a composição geográfica e os nomes visíveis no mapa enviado pelo criador foram aprovados como referência canônica do reino. A distribuição administrativa de todos os territórios ainda não está completa. Não inventar fronteiras internas, soberania ou detalhes históricos além do que está registrado aqui.
 
+> **Continuidade continental (27/10/2026):** este documento é a autoridade para os detalhes internos do Reino Élfico; a composição continental mais ampla está em [Aetherea — cânone geográfico e estado do continente](../lore/CONTINENTE_E_ESTADO_DO_PROJETO.md). O mapa continental confirma a posição regional do reino a oeste, das Terras Sombrias a leste e do Reino dos Anões a sudeste. A escala continental não altera os limites nem amplia a soberania élfica definidos aqui.
+
 ## Mapa de referência
 
 O mapa aprovado é a imagem intitulada **“Reino Élfico”**, com borda ornamental, rosa dos ventos, legenda cartográfica e escala gráfica de 0 a 200 km. A imagem original foi enviada diretamente pelo criador nesta conversa. A prancha define a referência visual e geográfica; nesta versão textual, a imagem ainda precisa ser adicionada ao repositório como arquivo binário para que possa ser exibida diretamente nesta página.
