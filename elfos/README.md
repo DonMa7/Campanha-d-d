@@ -1,6 +1,6 @@
 # Elfos — índice do reino élfico
 
-Esta pasta reúne os documentos, as decisões aprovadas e as referências visuais relativas aos elfos e ao reino élfico do cenário de D&D.
+Esta pasta reúne os documentos, as decisões aprovadas e as referências visuais relativas aos elfos e ao reino élfico do cenário de D&D. Para a posição do reino no mundo mais amplo, consulte também [Aetherea — cânone geográfico e estado do continente](../lore/CONTINENTE_E_ESTADO_DO_PROJETO.md).
 
 ## Documento central
 
