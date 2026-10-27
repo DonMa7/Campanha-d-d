@@ -10,6 +10,20 @@
 - Deuses existem, mas raramente intervêm de forma visível. Grande espiritualidade pode permitir contato ou acesso a poderes; pessoas também podem manipular seguidores alegando falar em nome de uma divindade.
 - A distribuição de magia varia por região e classe social. Educação, recursos, talento e controle político influenciam quem consegue desenvolvê-la.
 
+## Geografia continental — cânone
+
+A estrutura continental canônica está registrada em [Aetherea — cânone geográfico e estado do continente](../lore/CONTINENTE_E_ESTADO_DO_PROJETO.md). Aetherea tem dois grandes blocos terrestres ligados por um istmo largo e montanhoso, clima realista e variado, rede fluvial plausível, oceanos e mares interiores, magia ambiental regional e regiões selvagens distribuídas pelo mapa.
+
+- **Reino da Coroa:** grande reino humano centralizado ao norte, associado à linhagem do Sétimo Rei.
+- **Reino Religioso:** estado independente e vizinho direto do Reino da Coroa, situado na região central. Foi fundado por descendentes do Profeta, o Primeiro Papa, e é o centro da religião mais praticada do mundo. Seu nome próprio ainda não foi definido.
+- **Reino Élfico:** território pequeno, compacto e rico, a oeste; a Floresta de Yggdrasil não deve ser presumida como território efetivamente controlado pela Coroa Élfica.
+- **Terras Sombrias:** a leste do Reino Élfico, devastadas sobrenaturalmente por uma antiga catástrofe; uma cadeia montanhosa acompanha a fronteira, que permanece atravessável.
+- **Reino dos Anões:** a sudeste do Reino Élfico e estendendo-se por partes estratégicas das cordilheiras do istmo.
+- **Continente meridional:** contém vários reinos independentes e extensas regiões naturais sem soberania definida.
+- **A Queda:** o Reino da Coroa e o Reino Religioso compartilham a memória de uma batalha que uniu diferentes povos e na qual um meteoro matou o Lorde Demônio.
+
+Os rótulos adicionais que apareceram apenas na arte do mapa continental são provisórios até serem aprovados separadamente.
+
 ## Geopolítica geral
 - O cenário deverá combinar reinos, impérios, cidades independentes, ligas comerciais e territórios religiosos.
 - Existem diferentes potências e culturas; evitar reduzir uma espécie inteira a um único estereótipo (por exemplo, todos os anões serem gananciosos).
